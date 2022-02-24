@@ -1,0 +1,23 @@
+.root{
+	/*-fx-background-color: #ccff99;*/
+	-fx-background-color: black;
+	-fx-background-size: cover;
+}
+.button{
+	-fx-text-fill: white;
+	/*-fx-background-color: green;*/
+	-fx-background-color: red;
+}
+.button:hover{
+	-fx-background-color: black;
+}
+
+.label {
+	-fx-text-align: center;
+	-fx-text-fill: white;
+}
+#GeschwindigkeitLabel{
+	-fx-border-color: rgb(49,89,23);
+	-fx-border-radius: 50;
+	-fx-effect: dropshadow(three-pass-box, darkblue, 20,0,0,9);
+}

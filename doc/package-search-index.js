@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"design.circle.progressBar"},{"l":"design.dashboard"},{"l":"kamera"},{"l":"logik.dashboard"},{"l":"starter"}];updateSearchResults();
